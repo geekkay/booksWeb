@@ -1,0 +1,25 @@
+body{
+    background-color:lightgray;
+}
+.bg{
+    text-align: center;
+    background-color:darkgray;
+    width: 60%;
+    margin: auto;
+    font-size: 20px;
+    margin-top: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+hr{
+    width: 60%;
+}
+a:visited{
+    color:blue;
+}
+a{
+    text-decoration: none;
+}
